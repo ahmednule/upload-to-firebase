@@ -1,5 +1,6 @@
 
 import './App.css'
+import Login from './components/Login'
 
 function App() {
 
@@ -7,6 +8,7 @@ function App() {
     <>
     <div>
       <h1>upload-to-firebase-template</h1>
+      <Login/>
     </div>
     </>
   )
